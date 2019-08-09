@@ -7,7 +7,6 @@ def is_string_unique(s):
             return False
         else:
             string_map[c] = True
-    # print string_map
     return True
 
 
